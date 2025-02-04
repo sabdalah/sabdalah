@@ -56,10 +56,6 @@ Coding Languages I have used and worked with:
 - Arduino
 - Matlab (i don't really count this one but engineers count it as one so what the heck! why not!)
 
-- *In general I don't think I struggle working with different programming languages, I take to them pretty fast though some are definitely easier than others*
-- *I don't mean to toot my own horn but I am multi-talented though my "art" work I mainly did as a child and did not keep the work in a responsible place to show off but eventually I'll do more art. When I am not lazy :D*
-
-
 
 
 
