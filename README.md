@@ -63,7 +63,7 @@ Coding Languages I have used and worked with:
 
 
 
-
+Oh and I should mention : I have a secret hidden talent. I can find information about almost anything if u just give me a crumb. ;) 
 
 - *I made all the gifs/images in this special space of mine. They were designed specifically for making my github page to be more fun. :D*
   
