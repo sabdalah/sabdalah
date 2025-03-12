@@ -1,5 +1,4 @@
 #  ![my-gif](https://i.imgur.com/Kf6c5dM.gif) Welcome to my world!
-![my-banner](https://i.imgur.com/BGDCwMs.jpeg)
 
 
 
