@@ -2,7 +2,7 @@
 
 
 
- If you came here then you are either my instructor, someone I sent my resumee to, or a random person in passing, to which I have to say that is quite impressive. None the less, welcome. Since you're here and since this is my space I am going to tell you a little bit about myself, if you don't care about that just go through my repos [which are currently still being created] And yes this will be a lengthy piece because I like to talk about my journey into the compsci universe.
+ If you came here then you are either my instructor, someone I sent my resumee to, or a random person in passing, to which I have to say that is quite impressive. None the less, welcome. Since you're here and since this is my space I am going to tell you a little bit about myself, if you don't care about that just go through my repos. And yes this will be a lengthy piece because I like to talk about my journey into the compsci universe.
 
 
 ##  My background story
@@ -15,14 +15,28 @@ Anywho, It's been a mix of things that stemmed from other interests like anime, 
 
 # My Life Currently & Future Goals!
 
-I am in my final semester of my undergraduate degree in computer science. I did not select a concentraiton and I had a gap in my education. I started in 2014, stopped around 2017 and continued in 2022. My major also switched from computer engineering to computer science. Kind of by force since in my area it was not offered. My inspiration to go back is my two children that happened in the gap of my education. I have a 4 year old and a three year old. In that time I had to rewire myself and completely grow and redefine myself -- pushing through adversities and challenges but still creating room for myself and my education. 
-My intention is to go for my masters in computerscience Most likely in cyber security. Why cybersecurity? I think I was exposed to so much networking related topics and it just comes a little more easy to me than other CS topics.., Also because the classes seem to always be more fun to me than others.  After my masters I would like to *ideally* go for a doctorarte in CS because the more I learn the more I realize that I have so much to learn! 
+I have completed my degree as of May 2025 I was able to have the honor of being brought on as an Intern with Mumms -- a Hospice company based in New Orleans and got to do a lot of web development. I mainly worked on front-end (since they probably didn't want me to break anything important) and got the opportunity towards the end of my 3 month internship to do backend work with SQL and java. I also got to do some deployments with a senior monitoring me so that I don't mess anything up. During this time sadly my health started to deteriorate so I took a step back and worked extra hard on my health and got into the GYM life and lifting and found a passion I never knew existed. I am currently working on building a website from scratch that is to be a false lash shop. I am finding that I am having so much fun doing this as painfully long as it takes as it allows me complete creative freedom. No pressure of breaking anyone's work because it's all my work, and just having complete control of everything has been so much fun. 
+
+#My Interests
+
+I love working out and lifting weights. I can finally do a neutral grip pull up-- something I have never been able to do
+I love finding new things to be busy with , upgrading my self and knowledge
+I love cats and baby animals
+I have a knack for design but I also have OCD so it takes me forever to come up with a design I like (I intend to so some artwork and attach it here cuz why not????)
+Shooter games -- Currently I have been playing every evening around midnight. Sniping is so satisfying
+Heavy metal. I like pink things and also heavy metal music especially when I am lifting. Something about it hypes me up! 
+I have a deep sick addiction to celcius. I am worried about my kidneys but if I don't have my 200mg can of celcius It's not going to be good
+Popcorn. stove popped. Ive been making it everynight since I was 13 and now I have my children addicted to it
+Tiktok. I am sorry this might be the dealbreaker. I love passing time on tiktok -- It's where I get my recipes, where I learned different workouts, and where I turn to for quick information / references. My tiktok is @whatthesusu I post mainly workout content
+Palestine -- I am gonna be straightforward. I am palestinian I support my people and their freedom for Israeli illegal settlements and occupation. If you support Israel and I gave you my application let's stop here. I won't work for people who blatantly choose to stand with ignorance. 
+DId you know todays hebrew is basically a fake language?
+I support Congo, Sudan, Kurdistan and all the oppressed peoples in this world. May they become liberated from their oppressors. 
 
 
 
 # ![bunny](https://i.imgur.com/D1POPWk.gif) Relevant course work
 
-Current GPA: 3.5
+Graduating GPA: 3.4 (I was SO close to a 3.5 I am so sad.)
 
 - ![bullet-point](https://i.imgur.com/OWviZpo.png) Networking and telecommunications
 - ![bullet-point](https://i.imgur.com/OWviZpo.png) Datastructures and Algorithms
