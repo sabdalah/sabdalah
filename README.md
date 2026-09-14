@@ -1,5 +1,5 @@
-[#  ![my-gif](https://i.imgur.com/Kf6c5dM.gif) Welcome to my world!
-](https://imgur.com/a/qOWxQMm)
+[#  ![my-gif](https://imgur.com/a/qOWxQMm) Welcome to my world!
+]()
 
 
  If you came here then you are either my instructor, someone I sent my resumee to, or a random person in passing, to which I have to say that is quite impressive. None the less, welcome. Since you're here and since this is my space I am going to tell you a little bit about myself, if you don't care about that just go through my repos. And yes this will be a lengthy piece because I like to talk about my journey into the compsci universe.
