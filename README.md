@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/welcome.png" alt="Safa Abdalah GitHub Banner" width="100%">
+  <img src="./assets/Welcome.png" alt="Safa Abdalah GitHub Banner" width="100%">
 </p>
 
 
