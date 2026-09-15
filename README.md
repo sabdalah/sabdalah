@@ -37,11 +37,14 @@ I don't drink coffee sadly -- I drink energy drinks. Coffee doesn't work for me.
 Debates - I love watching them and participating in them. They can be quite entertaining.
 
 Swim! This is a family favorite. We are all drawn to the water and this might be my most favorite thing to do for leisure/fun. We like to drive down to Florida in the hot months and enjoy the clear beaches and white sand. Here's a picture of our recent trip where my son got to hold a jellyfish.
+<p align="center">
+  <img src="./assets/Jellyfish.HEIC" alt="Jellyfish HEIC image" width="100%">
+</p>
 
 
 Popcorn. stove popped. Ive been making it everynight since I was 13 and now I have my children addicted to it
 
-Tiktok. I am sorry this might be the dealbreaker. I love passing time on tiktok -- It's where I get my recipes, where I learned different workouts, and where I turn to for quick information / references. My tiktok is @whatthesusu I post mainly workout content & fun recipes if you're interested in finding something new to make at home!
+Tiktok -- It's where I get my recipes, where I learned different workouts, and where I turn to for quick information / references. My tiktok is @whatthesusu I post mainly workout content & fun recipes if you're interested in finding something new to make at home!
 
 
 
