@@ -3,7 +3,7 @@
 </p>
 
 
- If you came here then you are either my instructor, someone I sent my resumee to, or a random person in passing, to which I have to say that is quite impressive. None the less, welcome. Since you're here and since this is my space I am going to tell you a little bit about myself, if you don't care about that just go through my repos. And yes this will be a lengthy piece because I like to talk about my journey into the compsci universe.
+ Welcome. Since you're here and since this is my space I am going to tell you a little bit about myself, if you don't care about that just go through my repos. And yes this will be a lengthy piece because I like to talk about my journey into the compsci universe -- But I have broken them down into sections for convenience.
 
 
 ##  My background story
@@ -21,17 +21,28 @@ I have completed my degree as of May 2025 I was able to have the honor of being 
 #My Interests
 
 I love working out and lifting weights. I can finally do a neutral grip pull up-- something I have never been able to do
+
 I love finding new things to be busy with , upgrading my self and knowledge
+
 I love cats and baby animals
-I have a knack for design but I also have OCD so it takes me forever to come up with a design I like (I intend to so some artwork and attach it here cuz why not????)
-Shooter games -- Currently I have been playing every evening around midnight. Sniping is so satisfying
-Heavy metal. I like pink things and also heavy metal music especially when I am lifting. Something about it hypes me up! 
-I have a deep sick addiction to celcius. I am worried about my kidneys but if I don't have my 200mg can of celcius It's not going to be good
+
+I have a knack for design but I also have OCD so it takes me forever to come up with a design I like. I'll probably make a repo just for art work one day when I am feeling up to the task.
+
+Shooter games -- Currently I have been playing PUBG mobile every evening around midnight.
+
+Heavy/Death metal -- Hello? I feel like this is therapy to me. 🤘🤘🤘
+
+I don't drink coffee sadly -- I drink energy drinks. Coffee doesn't work for me. 
+
+Debates - I love watching them and participating in them. They can be quite entertaining.
+
+Swim! This is a family favorite. We are all drawn to the water and this might be my most favorite thing to do for leisure/fun. We like to drive down to Florida in the hot months and enjoy the clear beaches and white sand. Here's a picture of our recent trip where my son got to hold a jellyfish.
+
+
 Popcorn. stove popped. Ive been making it everynight since I was 13 and now I have my children addicted to it
-Tiktok. I am sorry this might be the dealbreaker. I love passing time on tiktok -- It's where I get my recipes, where I learned different workouts, and where I turn to for quick information / references. My tiktok is @whatthesusu I post mainly workout content
-Palestine -- I am gonna be straightforward. I am palestinian I support my people and their freedom for Israeli illegal settlements and occupation. If you support Israel and I gave you my application let's stop here. I won't work for people who blatantly choose to stand with ignorance. 
-DId you know todays hebrew is basically a fake language?
-I support Congo, Sudan, Kurdistan and all the oppressed peoples in this world. May they become liberated from their oppressors. 
+
+Tiktok. I am sorry this might be the dealbreaker. I love passing time on tiktok -- It's where I get my recipes, where I learned different workouts, and where I turn to for quick information / references. My tiktok is @whatthesusu I post mainly workout content & fun recipes if you're interested in finding something new to make at home!
+
 
 
 
@@ -72,9 +83,7 @@ Coding Languages I have used and worked with:
 
 
 
-
-
-- *I made all the gifs/images in this special space of mine. They were designed specifically for making my github page to be more fun. :D*
+- *I made all the gifs/images that you see in this document. I love to be creative whenever possible*
   
 <!--
 
