@@ -16,7 +16,9 @@ Anywho, It's been a mix of things that stemmed from other interests, the desire 
 
 # My Life Currently & Future Goals!
 
-I have completed my degree as of May 2025 I was able to have the honor of being brought on as an Intern with Mumms -- a Hospice company based in New Orleans and got to do a lot of web development. I mainly worked on front-end (since they probably didn't want me to break anything important) and got the opportunity towards the end of my 3 month internship to do backend work with SQL and java. I also got to do some deployments with a senior monitoring me so that I don't mess anything up. During this time sadly my health started to deteriorate so I took a step back and worked extra hard on my health and got into the GYM life and lifting and found a passion I never knew existed. I am currently working on building a website from scratch that is to be a false lash shop. I am finding that I am having so much fun doing this as painfully long as it takes as it allows me complete creative freedom. No pressure of breaking anyone's work because it's all my work, and just having complete control of everything has been so much fun. 
+I have completed my degree as of May 2025 I was able to have the honor of being brought on as an Intern with Mumms -- a sotware company based in New Orleans and got to do a lot of web development. I also got to do some deployments to dev, stage, and QA. I mainly worked on front-end and got the opportunity towards the end of my 3 month internship to do backend work with SQL and java using the springboot framework. During this time sadly my health started to deteriorate so I took a step back and worked extra hard on my health and got into the GYM life and lifting and found a passion I never knew existed. I am currently working on building a website from scratch that is to be a false lash shop. I am finding that I am having so much fun doing this as painfully long as it takes as it allows me complete creative freedom. No pressure of breaking anyone's work because it's all my work, and just having complete control of everything has been so much fun. 
+I also want to create a software that helps with spending. I want to have some sort of way to be able to upload all of my receipts from everywhere I make purchases and have an AI take that information and analyze it so it can tell me what I am doing wrong or what I spend most of and estimate my daily, weekly and monthly spending and then also perhaps make suggestions on alternative stores/markets and ways to reduce redundancy. It's a deep interest of mine to have that sort of powerful organization of my life. 
+
 
 # My Interests
 
@@ -24,7 +26,7 @@ I love working out and lifting weights. I can finally do a neutral grip pull up-
 
 I love finding new things to be busy with , upgrading my self and knowledge
 
-I love cats and baby animals
+I love cats and baby animals (I have two bunnies!)
 
 I have a knack for design but I also have OCD so it takes me forever to come up with a design I like. I'll probably make a repo just for art work one day when I am feeling up to the task.
 
@@ -78,6 +80,9 @@ Coding Languages I have used and worked with:
 - React
 - JSX
 - Javascript
+- typescript
+- HCL
+- Assembly (I know a few different types they're generally the same)
 - HTML/CSS
 - Python
 - Visual basic
@@ -86,7 +91,7 @@ Coding Languages I have used and worked with:
 
 
 
-- *I made all the gifs/images that you see in this document. I love to be creative whenever possible*
+
   
 <!--
 
